@@ -3,6 +3,8 @@ Hi, I'm Sam Mohr! (a.k.a. S'mores)
 
 I'm a software developer and ergonomic keyboard designer.
 
+![The Osprangle, my 34-key unibody](osprangle.jpg)
+
 My main boards are 34-key columnar boards with pinky clusters, in two families:
 
 - [The Osprette](https://github.com/smores56/osprette) (unibodies)
