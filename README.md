@@ -3,13 +3,11 @@ Hi, I'm Sam Mohr! (a.k.a. S'mores)
 
 I'm a software developer and ergonomic keyboard designer.
 
-Here are some of my keyboard designs:
+My main boards are 34-key columnar boards with pinky clusters, in two families:
 
-- [The Osprette](https://github.com/smores56/osprette)
-- [The Sephirette](https://github.com/smores56/sephirette)
-- [The Clog V2](https://github.com/smores56/clog-v2)
-- [The Clog V4](https://github.com/smores56/clog-v4)
+- [The Osprette](https://github.com/smores56/osprette) (unibodies)
+- [The Clog](https://github.com/smores56/clog) (splits)
 
-More designs can be found in my repos if you're curious.
+My older designs are in other repos, feel free to explore my old repos for more.
 
-My dotfiles repo can be found [here](https://github.com/smores56/dotfiles).
+My dotfiles and NixOS config live in [nix-config](https://github.com/smores56/nix-config).
